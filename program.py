@@ -1,4 +1,4 @@
 #addition of two numbers
-a=10
-b=20
+a=25
+b=40
 print("Sum of two numbers: ", (a+b))
