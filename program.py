@@ -1,4 +1,4 @@
 #addition of two numbers
 a=35
 b=35
-prin("Addition of two numbers: ", (a+b))
+print("Addition of two numbers: ", (a+b)
