@@ -1,4 +1,4 @@
 #addition of two numbers
 a=25
-b=35
-print("Sum of two numbers: ", (a+b)
+b=25
+print("Sum of two numbers: ", (a+b))
